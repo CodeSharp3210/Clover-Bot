@@ -262,4 +262,5 @@ async def vip(interaction: discord.Interaction):
 
 
 # TOKEN BOT
-bot.run("MTQxMDYyMDg2MzkxNjU0NDAyMQ.G4jAdv.uUN_rVc0nJdZbe3ftmDfqLlvNQAFMPPFtw571E")
+
+bot.run("BOT_ID")
